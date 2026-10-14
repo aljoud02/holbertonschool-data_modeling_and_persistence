@@ -1,1 +1,1 @@
-SELECT title, puplished_year FROM books ORDER BY puplished_year DESC;
+SELECT title, published_year FROM books ORDER BY published_year DESC;
