@@ -1,0 +1,1 @@
+SELECT title, stock FROM books ORDER BY stoxk DECS LIMIT 5;
